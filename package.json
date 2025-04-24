@@ -1,1 +1,5 @@
-// Placeholder for package.json
+{
+  "scripts": {
+    "build": "next build"
+  }
+}
